@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/matheus-ferreira02/Projeto-Trybetunes/static/css/main.a5a06cd0.chunk.css",
+    "main.js": "/matheus-ferreira02/Projeto-Trybetunes/static/js/main.ed7c82c9.chunk.js",
+    "main.js.map": "/matheus-ferreira02/Projeto-Trybetunes/static/js/main.ed7c82c9.chunk.js.map",
+    "runtime-main.js": "/matheus-ferreira02/Projeto-Trybetunes/static/js/runtime-main.e4d8cffa.js",
+    "runtime-main.js.map": "/matheus-ferreira02/Projeto-Trybetunes/static/js/runtime-main.e4d8cffa.js.map",
+    "static/js/2.174e9fa7.chunk.js": "/matheus-ferreira02/Projeto-Trybetunes/static/js/2.174e9fa7.chunk.js",
+    "static/js/2.174e9fa7.chunk.js.map": "/matheus-ferreira02/Projeto-Trybetunes/static/js/2.174e9fa7.chunk.js.map",
+    "index.html": "/matheus-ferreira02/Projeto-Trybetunes/index.html",
+    "static/css/main.a5a06cd0.chunk.css.map": "/matheus-ferreira02/Projeto-Trybetunes/static/css/main.a5a06cd0.chunk.css.map",
+    "static/js/2.174e9fa7.chunk.js.LICENSE.txt": "/matheus-ferreira02/Projeto-Trybetunes/static/js/2.174e9fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4d8cffa.js",
+    "static/js/2.174e9fa7.chunk.js",
+    "static/css/main.a5a06cd0.chunk.css",
+    "static/js/main.ed7c82c9.chunk.js"
+  ]
+}
