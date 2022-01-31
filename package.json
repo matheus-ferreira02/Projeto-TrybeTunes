@@ -1,7 +1,6 @@
 {
   "name": "trybetunes",
   "version": "0.1.0",
-  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -19,8 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint:styles": "npx stylelint '**/*.css'",
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx",
-    "publicar": "npm run build && ./node_modules/.bin/gh-pages -d build"
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
   },
   "eslintConfig": {
     "extends": [
