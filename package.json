@@ -1,7 +1,7 @@
 {
   "name": "trybetunes",
   "version": "0.1.0",
-  "homepage": "https://github.com/matheus-ferreira02/Projeto-Trybetunes",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
